@@ -72,9 +72,11 @@ cd sales-prediction-dashboard
 pip install -r requirements.txt
 streamlit run app/app.py
 
-Sélectionner les paramètres dans l'interface
+Sélectionner les paramètres dans l interface
 
 Obtenir instantanément la valeur de vente prédite
+
+---
 
 📊 Données utilisées
 Dataset : Sample Sales Data (Kaggle)
@@ -83,7 +85,9 @@ Format : CSV contenant plus de 2 000 lignes de commandes clients sur 3 ans
 
 Nettoyage et ingénierie de features réalisés dans le notebook 01_EDA.ipynb
 
+---
+
 🧑‍💼 Auteur
 Chérif Boubacar Barry
-🔗 https://www.linkedin.com/in/cherif-barry/ 
+🔗 [Linkedin](https://www.linkedin.com/in/cherif-barry/)
 📧 cboubacar.barry@gmail.com
