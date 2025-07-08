@@ -7,7 +7,7 @@ L’objectif est de prédire la valeur d’une commande client à partir de plus
 
 ## 🚀 Démo en ligne
 
-👉 [Cliquez ici pour tester l'application Streamlit](https://your-app-url.streamlit.app)
+👉 [Cliquez ici pour tester l'application Streamlit](https://prediction-dashboard.streamlit.app/)
 
 > (À remplacer par ton lien réel une fois déployé sur Streamlit Cloud)
 
